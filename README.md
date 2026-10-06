@@ -11,6 +11,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -20,6 +21,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -29,6 +31,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
