@@ -1,31 +1,34 @@
-
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right)
+ *         : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int level(TreeNode* root) {
-        if(root == NULL) return 0;
-        return 1 + max(level(root->left), level(root->right));
-    }
-
-    void nthlevel(TreeNode* root, vector<vector<int>>& ans, int curr, int lev) {
-        if(root == NULL) return;
-        if(curr == lev) {
-            ans[lev - 1].push_back(root->val);
-            return;
-        }
-
-        nthlevel(root->left, ans, curr + 1, lev);
-        nthlevel(root->right, ans, curr + 1, lev);
-    }
-
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> ans;
         if(root == NULL) return ans;
-        int n = level(root);
-        for(int i = 1; i <= n; i++) {
-            ans.push_back(vector<int>());
-            nthlevel(root, ans, 1, i);
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()) {
+            int size = q.size();
+            vector<int> level;
+            for(int i = 0; i < size; i++) {
+                TreeNode* curr = q.front();
+                q.pop();
+                level.push_back(curr->val);
+                if(curr->left != NULL) q.push(curr->left);
+                if(curr->right != NULL) q.push(curr->right);
+            }
+            ans.push_back(level);
         }
-
         return ans;
     }
 };
