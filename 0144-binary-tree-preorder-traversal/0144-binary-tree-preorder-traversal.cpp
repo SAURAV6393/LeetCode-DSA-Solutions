@@ -15,9 +15,8 @@ public:
         vector<int> ans;
         stack<TreeNode*> st;
         if(root != NULL) st.push(root);
-        else return ans;
-
-        while(st.size() > 0 ){
+       // else return ans;
+        while(st.size() > 0){
             TreeNode* temp = st.top();
             st.pop();
             ans.push_back(temp->val);
