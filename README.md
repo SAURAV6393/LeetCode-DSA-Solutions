@@ -17,6 +17,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 | [0101-symmetric-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -50,6 +51,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 | [0101-symmetric-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -88,4 +90,16 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
