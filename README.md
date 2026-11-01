@@ -27,6 +27,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 | [0257-binary-tree-paths](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 | [0257-binary-tree-paths](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -102,4 +104,8 @@ My solutions to LeetCode problems for DSA and coding interview preparation.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAURAV6393/LeetCode-DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
